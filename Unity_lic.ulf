@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><root><SystemInfo><IsoCode>en</IsoCode><UserName>root</UserName><OperatingSystem>Linux 4.19 Debian 10 64bit</OperatingSystem><OperatingSystemNumeric>419</OperatingSystemNumeric><ProcessorType>Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz</ProcessorType><ProcessorSpeed>3990</ProcessorSpeed><ProcessorCount>1</ProcessorCount><ProcessorCores>1</ProcessorCores><PhysicalMemoryMB>1995</PhysicalMemoryMB><ComputerName>debian</ComputerName><ComputerModel>PC</ComputerModel><UnityVersion>2017.4.10f1</UnityVersion><SupportedLicenseVersion>6.x</SupportedLicenseVersion></SystemInfo><License id="Terms"><MachineID Value="+OSfO6kYcLDdGS6jpPb6IFYNUGo=" /><MachineBindings><Binding Key="1" Value="36ba57573ffb439f9250eda74f3c29c7" /><Binding Key="2" Value="36ba57573ffb439f9250eda74f3c29c7" /></MachineBindings><UnityVersion Value="2017.4.10f1" /></License></root>
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="36ba57573ffb439f9250eda74f3c29c7"/>
+            <Binding Key="2" Value="36ba57573ffb439f9250eda74f3c29c7"/>
+        </MachineBindings>
+        <MachineID Value="+OSfO6kYcLDdGS6jpPb6IFYNUGo="/>
+        <SerialHash Value="bde6db1d192f7977f27dad9b2cdcf337fe97159b"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVRGUTYtSFNVUC04RlhOLVlKWUotSzlIUA=="/>
+        <SerialMasked Value="F4-TFQ6-HSUP-8FXN-YJYJ-XXXX"/>
+        <StartDate Value="2018-02-09T00:00:00"/>
+        <UpdateDate Value="2020-08-01T20:32:07"/>
+        <InitialActivationDate Value="2018-02-09T13:46:47"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.4.10f1"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonalPlus" Type="EDITOR" ValidTo="2021-07-24T14:40:43"/>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>1n+Hi9ptnOy2A/MYXA7AZQvHUX8=</DigestValue></Reference></SignedInfo><SignatureValue>IMuOKSujFBCzM6xRCG5GR/4xjpwVhAXvea6F2dRpY6C/AzjebL0qdjGCDqlB+GlYCG9N5coaFlyw
+N+musdtAh2C01lP7DihpyxGFNXT6GlzJPOrU6q/lJeBKh/meJ1t4JAitoCruWYMU1im96i976/Q3
+zZryp+qvrepwU6g/kKHYVP8kLRuNpNPPmpimmEW4QYnNcGub0o/5h8/+k3ZbKnu/UChiclkq8Kht
+YxwBF8bHmOGeCW0HEgsJnOVQg1CnZQJ73/6fA1S/G7sLmDnZUn/ZpVoawvToV6s3EXWQHSbrsWmo
+mCcw+NtziutIEuBsZ7nAM/H2hUStO9O/qb1w9g==</SignatureValue></Signature></root>
